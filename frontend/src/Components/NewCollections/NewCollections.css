@@ -1,21 +1,20 @@
-.popular {
+.new-collections {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 80px 40px; /* increased padding for breathing space */
   gap: 25px;
   background: #f9f9f9;
-      margin-top: 62px;
 }
 
-.popular h1 {
+.new-collections h1 {
   color: #171717;
   font-size: 46px; /* slightly larger heading */
   font-weight: 700;
   letter-spacing: 1px;
 }
 
-.popular hr {
+.new-collections hr {
   width: 150px;
   height: 4px;
   border: none;
@@ -31,4 +30,11 @@
   gap: 50px; /* more space between cards */
   width: 100%;
   max-width: 1400px; /* increased max width */
+}
+
+.collections{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 50px;
+    gap: 30px;
 }
