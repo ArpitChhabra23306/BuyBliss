@@ -23,10 +23,19 @@ _**Coming Soon!**_
 - React Router DOM
 - Custom CSS / CSS Modules
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-| Cart Page | Category Section | Hero Section | Home Page |
-|-----------|------------------|---------------|------------|
-| ![CartPage](./frontend/assets/CartPage.png) | ![CategorySection](./frontend/assets/CategorySection.png) | ![Hero Section](./frontend/assets/hero_homePage.png) | ![Home Page](./frontend/assets/homePage.png) |
+### 🏠 Hero Section
+![Hero](./frontend/assets/hero_homePage.png)
+
+### 🛍️ Category Section
+![Category](./frontend/assets/CategorySection.png)
+
+### 👗 Popular Section
+![Popular](./frontend/assets/homePage.png)
+
+### 🛒 Cart Page
+![Cart](./frontend/assets/CartPage.png)
+
 
 
