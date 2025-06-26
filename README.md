@@ -23,3 +23,7 @@ _**Coming Soon!**_
 - React Router DOM
 - Custom CSS / CSS Modules
 
+| Cart Page | Category Section | Hero Section | Home Page |
+|-----------|------------------|---------------|------------|
+| ![CartPage](./screenshots/CartPage.png) | ![CategorySection](./screenshots/CategorySection.png) | ![hero_homePage](./screenshots/hero_homePage.png) | ![homePage](./screenshots/homePage.png) |
+
