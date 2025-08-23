@@ -41,6 +41,7 @@ const ShopContextProvider = (props) => {
         return totalAmount;
     };
 
+    
     const getTotalCartItems = () => {
         let totalItem = 0;
         for (const item in cartItems) {
