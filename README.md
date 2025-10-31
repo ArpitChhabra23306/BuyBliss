@@ -13,7 +13,7 @@ BuyBliss is a stylish and responsive e-commerce website built with **React.js**.
 
 ## 🚀 Live Preview
 
-LINK - buy-bliss-eight.vercel.app
+LINK - buy-bliss-store.vercel.app
 
 ## 🛠️ Tech Stack
 
