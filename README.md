@@ -1,4 +1,4 @@
-# 🛍️ SHOPPER - E-commerce React App
+# 🛍️ BuyBliss - E-commerce React App
 
 BuyBliss is a stylish and responsive e-commerce website built with **React.js**. It offers a seamless shopping experience with features like product listings, category filtering, cart management, and more.
 
@@ -37,5 +37,6 @@ _**Coming Soon!**_
 ### 🛒 Cart Page
 ![Cart](./frontend/assets/CartPage.png)
 
+### Product Page
 
 
